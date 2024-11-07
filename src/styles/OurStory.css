@@ -1,0 +1,39 @@
+.story {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+}
+
+.story h2 {
+  margin-top: 20px;
+  text-align: left;
+}
+
+.story p {
+  margin: 10px 0;
+  text-align: left;
+}
+
+
+@media  (max-width: 992px) {
+  .story-switch {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .story {
+    justify-content: center;
+  }
+
+  .story h2 {
+    text-align: center;
+  }
+
+  .story p {
+    text-align: center;
+    align-items: center;
+    width: 100%;
+  }
+}
