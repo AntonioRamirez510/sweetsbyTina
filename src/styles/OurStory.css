@@ -1,3 +1,8 @@
+.hero {
+  background: radial-gradient(circle at 50% 50%, #fadc69, #ff70eb);
+  background-repeat: no-repeat;
+}
+
 .story {
   display: flex;
   flex-direction: column;

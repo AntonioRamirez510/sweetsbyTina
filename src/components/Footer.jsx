@@ -1,6 +1,6 @@
-import instagram from '../assets/insta-icon.png'
-import email from '../assets/email-logo.png'
-import phone from '../assets/phone-logo.png'
+import instagram from '/insta-icon.png'
+import email from '/email-logo.png'
+import phone from '/phone-logo.png'
 import '../styles/Footer.css'
 
 const Footer = () => {
