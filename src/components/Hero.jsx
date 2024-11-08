@@ -3,7 +3,7 @@ import tina from '/tina.PNG';
 import { Container, Row, Col } from 'react-bootstrap';
 import sweets from '/sweets.PNG'
 import cupcakes from '/cupcakes.PNG'
-import shooters from '/shooters.PNG'
+import shooters from '/Shooters.PNG'
 import cakes from '/cakes.PNG'
 import icingCupcake from '/Icing-Cupcakes.mp4'
 import { LinkContainer } from 'react-router-bootstrap';
